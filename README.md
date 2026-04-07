@@ -90,7 +90,6 @@ Python · GitHub Actions · Database migrations · Packaging
 ---
 
 ## Current Focus
-
 * 🤖 Machine Learning projects
 * 📊 Data-driven problem solving
 * 🛠️ Building strong and well-documented software projects
@@ -99,7 +98,6 @@ Python · GitHub Actions · Database migrations · Packaging
 ---
 
 ## GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadJamshidi99&theme=tokyonight&hide_border=true" />
 </p>
