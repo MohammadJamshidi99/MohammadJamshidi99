@@ -96,6 +96,8 @@ Python · GitHub Actions · Database migrations · Packaging
 * 🛠️ Building strong and well-documented software projects
 * 🚀 Growing a professional GitHub portfolio
 
+---
+
 ## GitHub Activity
 
 <p align="center">
@@ -106,3 +108,5 @@ Python · GitHub Actions · Database migrations · Packaging
 <div align="center">
   <i>Clean code, thoughtful models, and real projects.</i>
 </div>
+
+---
