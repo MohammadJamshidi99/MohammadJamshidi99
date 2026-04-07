@@ -71,6 +71,24 @@ Project related to tracking or analyzing LinkedIn-oriented data/workflows.
 
 ---
 
+### 💹 AggFinData
+
+A Python-based software engineering project for financial data processing and delivery.
+
+**Highlights**
+
+* Structured application code with packaging and setup files
+* Database migration support
+* CI/CD workflows and deployment components
+* Includes technical documentation and report material
+
+**Tech**
+Python · GitHub Actions · Database migrations · Packaging
+
+🔗 [View Project](https://github.com/MohammadJamshidi99/AggFinData)
+
+---
+
 ## GitHub Stats
 
 <p align="center">
